@@ -638,20 +638,20 @@ git flow hotfix finish VERSION
 
 ### Commands
 <p align="center">
-    <img alt="Git" src="../img/git-flow-commands.png" height="270" width="460">
+    <img alt="Git" src="./img/git-flow-commands.png" height="270" width="460">
 </p>
 <hr>
 
 ### Git flow schema
 
 <p align="center">
-    <img alt="Git" src="../img/git-flow-commands-without-flow.png">
+    <img alt="Git" src="./img/git-flow-commands-without-flow.png">
 </p>
 <hr>
 
 ### Git cheat sheet
 
 <p align="center">
-    <img alt="Git" src="../img/git-cheat-sheet.jpg">
+    <img alt="Git" src="./img/git-cheat-sheet.jpg">
 </p>
 <hr>
