@@ -652,6 +652,6 @@ git flow hotfix finish VERSION
 ### Git cheat sheet
 
 <p align="center">
-    <img alt="Git" src="../img/git-cheat-sheet.png">
+    <img alt="Git" src="../img/git-cheat-sheet.jpg">
 </p>
 <hr>
