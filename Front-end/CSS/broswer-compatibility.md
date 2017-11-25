@@ -36,7 +36,7 @@ CSS预编译器几乎成为现如今开发CSS的标配，它从以下几个方�
 
 首先我们在package.json中添加以下依赖，我会在后面解释每个依赖所起的作用
 
-```
+```javascript
 ...
 "devDependencies": {
   "autoprefixer": "^6.5.3",
@@ -68,7 +68,7 @@ CSS预编译器几乎成为现如今开发CSS的标配，它从以下几个方�
 
 然后我们在webpack.config.js中配置loader
 
-```
+```javascript
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 ...
 module: {
