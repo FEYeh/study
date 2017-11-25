@@ -28,7 +28,7 @@ CSS预编译器几乎成为现如今开发CSS的标配，它从以下几个方�
 我们可以使用规范的CSS原生语法编写源代码，然后配置编译器需要兼容的浏览器版本，最后经过编译将源码转化为目标浏览器可用的CSS代码
 #### 编译流程
 <p align="center">
-  <img alt="Git" src="./img/postcss.jpg" height="385" width="466">
+  <img alt="Git" src="./img/postcss.jpg" height="466" width="385">
 </p>
 <hr>
 
