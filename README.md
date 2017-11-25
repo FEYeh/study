@@ -3,9 +3,9 @@ Get busy living, Or get busy dying.
 
 ---
 ### 索引
-* [Git](#Git)
-* [Front-end](#Front-end)
-* [Blog](#Blog)
+* [Git](./Git)
+* [Front-end](./Front-end)
+* [Blog](./Blog)
 
 ---
 ### Git
